@@ -1,0 +1,4 @@
+# Install sequence:
+# pip install git+https://github.com/huggingface/diffusers@dafe3733fcfdbf3c48915fe77be3aef65b5d6a2d
+# pip install torch --index-url https://download.pytorch.org/whl/cu121
+# pip install transformers accelerate soundfile gradio
